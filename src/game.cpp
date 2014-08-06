@@ -1561,7 +1561,7 @@ bool the_game(bool &kill, bool random_input, InputHandler *input,
 
 	// First line of debug text
 	gui::IGUIStaticText *guitext = guienv->addStaticText(
-			L"Freeminer",
+			L"BlockCraft",
 			core::rect<s32>(0, 0, 0, 0),
 			false, false);
 	// Second line of debug text
