@@ -1,8 +1,8 @@
 [Desktop Entry]
-Name=Freeminer
-GenericName=Freeminer
-Comment=Multiplayer infinite-world block sandbox
-Exec=freeminer
+Name=BlockCraft
+GenericName=BlockCraft
+Comment=Singleplayer and Multiplayer infinite-world block sandbox
+Exec=blockcraft
 Icon=freeminer
 Terminal=false
 Type=Application
